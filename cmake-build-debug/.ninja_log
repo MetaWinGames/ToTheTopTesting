@@ -1,0 +1,16 @@
+# ninja log v5
+130	258	7392062404445163	CMakeFiles/ToTheTopTesting.dir/tests.cpp.obj	73a7b896b859c694
+69	2061	7392062422034418	CMakeFiles/ToTheTopTesting.dir/Useful.cpp.obj	7ff8511d1b8478ca
+29	4435	7392062446116928	CMakeFiles/ToTheTopTesting.dir/config.cpp.obj	b0ad7b6b617a43d3
+91	6317	7392062465000110	CMakeFiles/ToTheTopTesting.dir/coin.cpp.obj	29df41c810e4661e
+51	6501	7392062466814166	CMakeFiles/ToTheTopTesting.dir/ways.cpp.obj	9a4886ac8de31a8c
+1	6629	7392062468079576	CMakeFiles/ToTheTopTesting.dir/basegame.cpp.obj	e0cf6432b4ecc20b
+15	9044	7392062492195735	CMakeFiles/ToTheTopTesting.dir/main.cpp.obj	4ffb7145cf5a06bf
+114	11214	7392062513824972	CMakeFiles/ToTheTopTesting.dir/stats.cpp.obj	b50199eb5be0486b
+11214	11825	7392062519901121	ToTheTopTesting.exe	8b5c34ac132bb027
+6	7268	7392065111126002	CMakeFiles/ToTheTopTesting.dir/main.cpp.obj	4ffb7145cf5a06bf
+7268	7842	7392065116766731	ToTheTopTesting.exe	8b5c34ac132bb027
+5	7651	7392066334136777	CMakeFiles/ToTheTopTesting.dir/main.cpp.obj	4ffb7145cf5a06bf
+7652	8178	7392066339692338	ToTheTopTesting.exe	8b5c34ac132bb027
+7	8074	7392067470218823	CMakeFiles/ToTheTopTesting.dir/main.cpp.obj	4ffb7145cf5a06bf
+8074	8687	7392067476189098	ToTheTopTesting.exe	8b5c34ac132bb027

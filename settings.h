@@ -12,7 +12,7 @@
 
 constexpr int num_threads = 20;
 
-constexpr long long int num_elements = 2000;   // Aproximate time 30s for 10 mill
+constexpr long long int num_elements = 1'000'0000;   // Aproximate time 30s for 10 mill
 constexpr long long int num_elements_scatter = 10'000'000; // Aproximate time 45s for 1 mill
 constexpr long long int num_elements_coin = 50'000'000;  // Aproximate time 30s for 2 mill
 
