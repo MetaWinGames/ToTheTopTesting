@@ -1,0 +1,5 @@
+C:/Users/sarantis/CLionProjects/ToTheTopTesting/cmake-build-debug/CMakeFiles/ToTheTopTesting.dir
+C:/Users/sarantis/CLionProjects/ToTheTopTesting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sarantis/CLionProjects/ToTheTopTesting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/sarantis/CLionProjects/ToTheTopTesting/cmake-build-debug/_deps/json-build/CMakeFiles/edit_cache.dir
+C:/Users/sarantis/CLionProjects/ToTheTopTesting/cmake-build-debug/_deps/json-build/CMakeFiles/rebuild_cache.dir
