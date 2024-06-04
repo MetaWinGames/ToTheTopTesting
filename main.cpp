@@ -202,13 +202,7 @@ void GameRuns(int start, int end,
         int NoJackpotPoints = 0;
 
         std::vector<std::vector<int>> game_view = GameView(setting.Configs.base_reel);
-//        std::vector<std::vector<int>> game_view = {
-//                {11,10,2},
-//                {11,11},
-//                {11,11,11},
-//                {3,3,3},
-//                {3,3,10},
-//        };
+
 
         // BASE GAME
         BaseGameResults BaseGameResult =  BaseGame(game_view,
